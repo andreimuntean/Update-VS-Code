@@ -1,2 +1,2 @@
 # Update-VS-Code
-Shell script for updating Visual Studio Code.
+A shell script for updating Visual Studio Code with no hassle.
